@@ -1,0 +1,9 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\FormMotCache\bin\Debug\FormMotCache.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\FormMotCache\bin\Debug\FormMotCache.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\FormMotCache\bin\Debug\FormMotCache.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\FormMotCache\obj\Debug\FormMotCache.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\FormMotCache\obj\Debug\FormMotCache.Form1.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\FormMotCache\obj\Debug\FormMotCache.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\FormMotCache\obj\Debug\FormMotCache.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\FormMotCache\obj\Debug\FormMotCache.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\FormMotCache\obj\Debug\FormMotCache.pdb

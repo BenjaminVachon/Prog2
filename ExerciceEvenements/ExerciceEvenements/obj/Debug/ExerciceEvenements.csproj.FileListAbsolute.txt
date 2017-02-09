@@ -1,0 +1,9 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEvenements\bin\Debug\ExerciceEvenements.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEvenements\bin\Debug\ExerciceEvenements.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEvenements\bin\Debug\ExerciceEvenements.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEvenements\obj\Debug\ExerciceEvenements.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEvenements\obj\Debug\ExerciceEvenements.FormDessin.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEvenements\obj\Debug\ExerciceEvenements.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEvenements\obj\Debug\ExerciceEvenements.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEvenements\obj\Debug\ExerciceEvenements.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEvenements\obj\Debug\ExerciceEvenements.pdb

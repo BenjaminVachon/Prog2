@@ -1,0 +1,9 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleSouris\bin\Debug\ExempleSouris.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleSouris\bin\Debug\ExempleSouris.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleSouris\bin\Debug\ExempleSouris.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleSouris\obj\Debug\ExempleSouris.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleSouris\obj\Debug\ExempleSouris.FormDessin.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleSouris\obj\Debug\ExempleSouris.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleSouris\obj\Debug\ExempleSouris.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleSouris\obj\Debug\ExempleSouris.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleSouris\obj\Debug\ExempleSouris.pdb

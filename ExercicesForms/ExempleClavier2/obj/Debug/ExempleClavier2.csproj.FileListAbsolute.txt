@@ -1,0 +1,5 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleClavier2\bin\Debug\ExempleClavier2.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleClavier2\obj\Debug\ExempleClavier2.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleClavier2\obj\Debug\ExempleClavier2.Form1.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleClavier2\obj\Debug\ExempleClavier2.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleClavier2\obj\Debug\ExempleClavier2.csproj.GenerateResource.Cache

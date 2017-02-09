@@ -1,0 +1,8 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleImage\bin\Debug\ExempleImage.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleImage\bin\Debug\ExempleImage.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleImage\bin\Debug\ExempleImage.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleImage\obj\Debug\ExempleImage.FormImages.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleImage\obj\Debug\ExempleImage.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleImage\obj\Debug\ExempleImage.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleImage\obj\Debug\ExempleImage.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExercicesForms\ExempleImage\obj\Debug\ExempleImage.pdb

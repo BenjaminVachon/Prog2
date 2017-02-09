@@ -1,0 +1,9 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExercicesDevinerNombre\bin\Debug\ExercicesDevinerNombre.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExercicesDevinerNombre\bin\Debug\ExercicesDevinerNombre.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExercicesDevinerNombre\bin\Debug\ExercicesDevinerNombre.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExercicesDevinerNombre\obj\Debug\ExercicesDevinerNombre.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExercicesDevinerNombre\obj\Debug\ExercicesDevinerNombre.Form1.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExercicesDevinerNombre\obj\Debug\ExercicesDevinerNombre.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExercicesDevinerNombre\obj\Debug\ExercicesDevinerNombre.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExercicesDevinerNombre\obj\Debug\ExercicesDevinerNombre.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExercicesDevinerNombre\obj\Debug\ExercicesDevinerNombre.pdb
