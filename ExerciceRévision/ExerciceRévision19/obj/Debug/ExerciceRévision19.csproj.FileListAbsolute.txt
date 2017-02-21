@@ -1,0 +1,6 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\ExerciceRévision19\bin\Debug\ExerciceRévision19.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\ExerciceRévision19\bin\Debug\ExerciceRévision19.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\ExerciceRévision19\bin\Debug\ExerciceRévision19.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\ExerciceRévision19\obj\Debug\ExerciceRévision19.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\ExerciceRévision19\obj\Debug\ExerciceRévision19.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\ExerciceRévision19\obj\Debug\ExerciceRévision19.pdb

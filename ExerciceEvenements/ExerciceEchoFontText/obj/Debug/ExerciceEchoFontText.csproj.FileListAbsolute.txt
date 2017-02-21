@@ -1,0 +1,9 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEchoFontText\bin\Debug\ExerciceEchoFontText.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEchoFontText\bin\Debug\ExerciceEchoFontText.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEchoFontText\bin\Debug\ExerciceEchoFontText.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEchoFontText\obj\Debug\ExerciceEchoFontText.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEchoFontText\obj\Debug\ExerciceEchoFontText.Form1.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEchoFontText\obj\Debug\ExerciceEchoFontText.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEchoFontText\obj\Debug\ExerciceEchoFontText.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEchoFontText\obj\Debug\ExerciceEchoFontText.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceEchoFontText\obj\Debug\ExerciceEchoFontText.pdb

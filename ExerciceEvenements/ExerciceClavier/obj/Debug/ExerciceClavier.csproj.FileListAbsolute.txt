@@ -1,0 +1,9 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceClavier\bin\Debug\ExerciceClavier.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceClavier\bin\Debug\ExerciceClavier.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceClavier\bin\Debug\ExerciceClavier.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceClavier\obj\Debug\ExerciceClavier.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceClavier\obj\Debug\ExerciceClavier.Form1.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceClavier\obj\Debug\ExerciceClavier.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceClavier\obj\Debug\ExerciceClavier.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceClavier\obj\Debug\ExerciceClavier.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceClavier\obj\Debug\ExerciceClavier.pdb

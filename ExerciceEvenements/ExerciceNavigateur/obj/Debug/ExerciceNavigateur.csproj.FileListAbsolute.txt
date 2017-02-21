@@ -1,0 +1,8 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceNavigateur\bin\Debug\ExerciceNavigateur.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceNavigateur\bin\Debug\ExerciceNavigateur.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceNavigateur\bin\Debug\ExerciceNavigateur.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceNavigateur\obj\Debug\ExerciceNavigateur.Form1.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceNavigateur\obj\Debug\ExerciceNavigateur.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceNavigateur\obj\Debug\ExerciceNavigateur.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceNavigateur\obj\Debug\ExerciceNavigateur.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceEvenements\ExerciceNavigateur\obj\Debug\ExerciceNavigateur.pdb

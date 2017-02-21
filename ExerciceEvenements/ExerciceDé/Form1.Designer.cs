@@ -32,10 +32,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.checkBoxnoir = new System.Windows.Forms.CheckBox();
             this.checkBoxblanc = new System.Windows.Forms.CheckBox();
             this.checkBoxrouge = new System.Windows.Forms.CheckBox();
@@ -43,7 +43,7 @@
             this.numericUpDownblanc = new System.Windows.Forms.NumericUpDown();
             this.numericUpDownrouge = new System.Windows.Forms.NumericUpDown();
             this.label6 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBoxTotal = new System.Windows.Forms.TextBox();
             this.buttonaccept = new System.Windows.Forms.Button();
             this.buttonreset = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
@@ -92,6 +92,13 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Information de livraison";
             // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(368, 24);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(228, 22);
+            this.textBox2.TabIndex = 3;
+            // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(108, 24);
@@ -116,13 +123,6 @@
             this.label4.Size = new System.Drawing.Size(94, 17);
             this.label4.TabIndex = 0;
             this.label4.Text = "Nom, Prenom";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(368, 24);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(228, 22);
-            this.textBox2.TabIndex = 3;
             // 
             // checkBoxnoir
             // 
@@ -187,13 +187,13 @@
             this.label6.TabIndex = 10;
             this.label6.Text = "Votre coûts final est de :";
             // 
-            // textBox3
+            // textBoxTotal
             // 
-            this.textBox3.Location = new System.Drawing.Point(175, 242);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(434, 22);
-            this.textBox3.TabIndex = 11;
+            this.textBoxTotal.Location = new System.Drawing.Point(175, 242);
+            this.textBoxTotal.Name = "textBoxTotal";
+            this.textBoxTotal.ReadOnly = true;
+            this.textBoxTotal.Size = new System.Drawing.Size(434, 22);
+            this.textBoxTotal.TabIndex = 11;
             // 
             // buttonaccept
             // 
@@ -203,6 +203,7 @@
             this.buttonaccept.TabIndex = 12;
             this.buttonaccept.Text = "Passez commande";
             this.buttonaccept.UseVisualStyleBackColor = true;
+            this.buttonaccept.Click += new System.EventHandler(this.buttonaccept_Click);
             // 
             // buttonreset
             // 
@@ -220,7 +221,7 @@
             this.ClientSize = new System.Drawing.Size(627, 276);
             this.Controls.Add(this.buttonreset);
             this.Controls.Add(this.buttonaccept);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.textBoxTotal);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.numericUpDownrouge);
             this.Controls.Add(this.numericUpDownblanc);
@@ -261,7 +262,7 @@
         private System.Windows.Forms.NumericUpDown numericUpDownblanc;
         private System.Windows.Forms.NumericUpDown numericUpDownrouge;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBoxTotal;
         private System.Windows.Forms.Button buttonaccept;
         private System.Windows.Forms.Button buttonreset;
     }

@@ -1,0 +1,9 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice14\bin\Debug\Exercice14.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice14\bin\Debug\Exercice14.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice14\bin\Debug\Exercice14.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice14\obj\Debug\Exercice14.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice14\obj\Debug\Exercice14.Form1.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice14\obj\Debug\Exercice14.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice14\obj\Debug\Exercice14.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice14\obj\Debug\Exercice14.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice14\obj\Debug\Exercice14.pdb
