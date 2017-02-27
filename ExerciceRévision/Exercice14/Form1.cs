@@ -32,15 +32,11 @@ namespace Exercice14
             {
                 piece = true;
             }
-            else if(rng.Next(0,2) == 1)
+            else
             {
                 piece = false;
             }
-            else
-            {
-                labelnblancer.Text = "wtf";
-            }
-
+           
             if(piece == true)
             {
                 face++;

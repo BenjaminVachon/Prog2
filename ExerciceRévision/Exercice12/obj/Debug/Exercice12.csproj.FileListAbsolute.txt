@@ -1,0 +1,5 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice12\bin\Debug\Exercice12.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice12\bin\Debug\Exercice12.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice12\bin\Debug\Exercice12.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice12\obj\Debug\Exercice12.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice12\obj\Debug\Exercice12.pdb

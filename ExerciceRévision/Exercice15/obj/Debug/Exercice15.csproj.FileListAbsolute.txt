@@ -1,0 +1,6 @@
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice15\bin\Debug\Exercice15.exe.config
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice15\bin\Debug\Exercice15.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice15\bin\Debug\Exercice15.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice15\obj\Debug\Exercice15.exe
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice15\obj\Debug\Exercice15.pdb
+C:\Users\benja\Documents\GitHub\Programation2\Prog2\ExerciceRévision\Exercice15\obj\Debug\Exercice15.csprojResolveAssemblyReference.cache
